@@ -239,4 +239,4 @@ def get_random_date(fmt, yr_start, yr_end):
         20: twenty(yr_start, yr_end),
         21: twenty_one(yr_start, yr_end),
         22: twenty_two(yr_start, yr_end),
-    }.get(fmt, 14)    # 14 is default if x not found
+    }.get(fmt, 14)    # 14 is default if fmt not found
