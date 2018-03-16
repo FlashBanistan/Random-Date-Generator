@@ -5,6 +5,8 @@
 
 1) get_random_date(pattern_num, yr_start, yr_end)
 2) get_random_day(fmt)
+&nbsp;&nbsp;&nbsp;'d'
+&nbsp;&nbsp;&nbsp;'dd'
 3) get_random_month(fmt)
 4) get_random_year(fmt, start, end)
 
