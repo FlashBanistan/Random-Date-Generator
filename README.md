@@ -1,14 +1,14 @@
 # Random-Date-Generator
 ## Python module to randomly generate a date in a variety of formats.
 
-#### Exposes 4 main functions:
+### Exposes 4 main functions:
 
 1) get_random_date(pattern_num, yr_start, yr_end)
 2) get_random_day(fmt)
 3) get_random_month(fmt)
 4) get_random_year(fmt, start, end)
 
-#### Possible formats include:
+### Possible formats include:
 'd'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  
 'dd'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01  
 'weekday'&nbsp;&nbsp;Monday  
@@ -20,7 +20,7 @@
 'yy'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16  
 'yyyy'&nbsp;&nbsp;&nbsp;&nbsp;2016  
 
-#### Premade patterns with corresponding numbers:
+### Premade patterns with corresponding numbers:
 1)	**'dd/mm/yy'**,	03/08/06
 2)	**'dd/mm/yyyy'**,	03/08/2006
 3)	**'d/m/yy'**,	3/8/06
@@ -44,4 +44,4 @@
 21)	**'yy'**,	06
 22)	**'yyyy'**,	2006
 
-#### Pull requests welcome :)
+### Pull requests welcome :)
