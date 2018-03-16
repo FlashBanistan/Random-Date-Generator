@@ -11,8 +11,8 @@
 #### Possible formats include:
 'd'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  
 'dd'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01  
-'weekday'_________Monday  
-'weekday_short'___Mon  
+'weekday'&nbsp;&nbsp;Monday  
+'weekday_short'&nbsp;&nbsp;Mon  
 'm'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  
 'mm'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01  
 'mmm'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan  
