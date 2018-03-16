@@ -215,7 +215,7 @@ def twenty_two(yr_start, yr_end):
   year = get_random_year('yyyy', yr_start, yr_end)
   return '{0}'.format(year)
 
-def get_random_date(fmt, yr_start, yr_end):
+def get_random_date(premade_fmt, yr_start, yr_end):
     return {
         1: one(yr_start, yr_end),
         2: two(yr_start, yr_end),
@@ -239,4 +239,4 @@ def get_random_date(fmt, yr_start, yr_end):
         20: twenty(yr_start, yr_end),
         21: twenty_one(yr_start, yr_end),
         22: twenty_two(yr_start, yr_end),
-    }.get(fmt, 14)    # 14 is default if fmt not found
+    }.get(premade_fmt, 14)    # 14 is default if premade_fmt not found
