@@ -9,13 +9,13 @@
 4) get_random_year(fmt, start, end)
 
 #### Possible formats include:
-d               1  
-dd              01  
-weekday         Monday  
-weekday_short   Mon  
-m               1  
-mm              01  
-mmm             Jan  
-mmmm            January  
-yy              16  
-yyyy            2016  
+'d'_______________1  
+'dd'______________01  
+'weekday'_________Monday  
+'weekday_short'___Mon  
+'m'_______________1  
+'mm'______________01  
+'mmm'_____________Jan  
+'mmmm'____________January  
+'yy'______________16  
+'yyyy'____________2016  
