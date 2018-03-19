@@ -43,5 +43,6 @@
 20)	**'mmm-yy'**,	Aug-06
 21)	**'yy'**,	06
 22)	**'yyyy'**,	2006
+23) **'mmmm yyyy'**, August 2017
 
 ### Pull requests welcome :)
